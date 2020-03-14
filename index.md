@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to Zagile Consulting Service
 
-You can use the [editor on GitHub](https://github.com/zagile-consulting/zeid/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Zagile provides consultancy services to organisations. We specialise in 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Providing coaching in Quality Engineering practices
+- 1 to 1 mentoring and coaching in technical leadership
+- Solution design
+- Agile Product Development
+- Off-shore leadership
+- Change management and engineering transformation.
 
-### Markdown
+## Who We are
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A consultancy that thrives on delivering real transformative practices, to deliver engineering teams that excel and provide immediate value for your business. We have oodles of experience in a variety of industries, and are always product and business led. We span the gap between the business and technology and can show you the way on how empowering your technical teams can transform your business.
 
-```markdown
-Syntax highlighted code block
+For more details email us on zeid@zagile.co.uk
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zagile-consulting/zeid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
