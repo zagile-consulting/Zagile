@@ -1,2 +1,2 @@
-# zeid
-Services provided by Zagile
+# Zagile Consulting Services
+Software engineering consultancy
