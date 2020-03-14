@@ -1,6 +1,4 @@
-# Welcome to Zagile Consulting Service
-
-Zagile provides consultancy services to organisations. We specialise in 
+## Zagile provides consultancy services to organisations. We specialise in 
 
 - Providing coaching in Quality Engineering practices
 - 1 to 1 mentoring and coaching in technical leadership
