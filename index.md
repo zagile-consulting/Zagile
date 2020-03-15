@@ -6,10 +6,10 @@
 - Agile Product Development
 - Off-shore leadership
 - Change management and engineering transformation.
-- Providing ready made Product delivery teams
+- Providing ready made product delivery teams
 
 
-## Who We are
+## Who We Are
 
 A consultancy that thrives on delivering real transformative practices, to deliver engineering teams that excel and provide immediate value for your business. We have oodles of experience in a variety of industries, and are always product and business led. We span the gap between the business and technology and can show you how empowering your technical teams can transform your business.
 
